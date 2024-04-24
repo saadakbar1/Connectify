@@ -1,4 +1,4 @@
-
+Connectify-A Social Media Application
 
 ## <a name="tech-stack"> Tech Stack</a>
 
