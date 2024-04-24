@@ -1,6 +1,6 @@
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - React.js
 - Appwrite
@@ -9,7 +9,7 @@
 - Shadcn
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 👉 **Authentication System**: A robust authentication system ensuring security and user privacy
 
