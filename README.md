@@ -1,8 +1,6 @@
 ## <a name="tech-stack"> Connectify-A Social Media Application</a>
 
-Link-
-
-https://connectify-three-tau.vercel.app/
+Link- https://connectify-three-tau.vercel.app/
 
 ## <a name="tech-stack"> Tech Stack</a>
 
